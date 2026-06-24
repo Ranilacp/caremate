@@ -1,0 +1,32 @@
+# ============================================================
+#   CareMate - Python Requirements
+#   Install with: pip install -r requirements.txt --break-system-packages
+# ============================================================
+
+# Computer Vision
+opencv-python-headless>=4.8.0
+ultralytics>=8.0.0           # YOLOv8
+
+# Serial Communication (Arduino)
+pyserial>=3.5
+
+# Health Monitoring
+# (Arduino sends data via serial, no extra Python lib needed)
+
+# Voice Assistant
+SpeechRecognition>=3.10.0
+gTTS>=2.4.0
+pygame>=2.5.0                # For audio playback
+groq>=0.4.2                  # Groq LLM API
+
+# Telegram Alerts
+requests>=2.31.0
+python-telegram-bot>=20.7    # For bot callback handling (optional)
+
+# Web Dashboard
+Flask>=3.0.0
+Flask-SocketIO>=5.3.6        # For real-time updates
+
+# Utilities
+numpy>=1.24.0
+Pillow>=10.0.0
