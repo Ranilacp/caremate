@@ -17,6 +17,32 @@ CareMate is an AI-powered elderly care companion robot that provides:
 **Hardware:** Raspberry Pi + Arduino UNO + L298N Motor Driver + USB Webcam + 4 DC Motors
 
 ---
+## Demo
+
+### Person Following
+![Person Following](person_following.jpeg)
+
+---
+
+### Fall Detection
+![Fall Detection](fall_detection.jpeg)
+
+---
+
+### Dashboard & Alerts
+![Dashboard](dashboard.jpeg)
+
+---
+
+### Telegram Alerts
+![Telegram Alerts](telegram_alerts.jpeg)
+
+---
+
+### Voice Assistant
+![Voice Assistant](voice_assistant.jpeg)
+
+---
 
 ## Folder Structure
 
